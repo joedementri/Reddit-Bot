@@ -1,0 +1,31 @@
+Last time each item was in the shop:
+
+* [Hime](https://image.fnbr.co/outfit/5b7e792922e0661a60867a33/icon.png) - NEW
+
+* [Musha](https://image.fnbr.co/outfit/5b7e791a22e066acb5867a32/icon.png) - NEW
+
+* [Cat's Claw](https://image.fnbr.co/pickaxe/5b7e7dab22e066fa98867a54/icon.png) - NEW
+
+* [Purrfect.](https://image.fnbr.co/glider/5b7e7d0f22e066cd48867a4a/icon.png) - NEW
+
+* [Confused](https://image.fnbr.co/emote/5ab177605f957f27504aa51e/icon.png) - 2018-06-22, 64 days ago
+
+* [Praise The Tomato](https://image.fnbr.co/emote/5b7e7d8222e0661b9c867a51/icon.png) - NEW
+
+* [Infiltrator](https://image.fnbr.co/outfit/5ab2dd2a8b5e144386db6cae/icon.png) - 2018-07-27, 29 days ago
+
+* [Autocleave](https://image.fnbr.co/pickaxe/5afc0fa7b6e7f77dcfa32634/icon.png) - 2018-08-23, 2 days ago
+
+* [Glow Rider](https://image.fnbr.co/glider/5ae89f88f3d31b247dc5b805/icon.png) - 2018-08-23, 2 days ago
+
+* [Commando](https://image.fnbr.co/outfit/5ab1b7169116ac5688c6d7cc/icon.png) - 2018-08-06, 19 days ago
+
+---
+
+Since people always wonder/complain about skins not appearing enough, I'm keeping a spreadsheet of the last time each item was in the shop.
+
+[**Link to Spreadsheet**](https://docs.google.com/spreadsheets/d/1vsascLSC9ynd6JFEgaIbolFPSYUXz-xgigvTjiANxkU/edit?usp=sharing)
+
+---
+
+^(Special Thanks to fnbr.co for allowing me to use their API)
